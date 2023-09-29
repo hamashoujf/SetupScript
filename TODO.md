@@ -1,0 +1,43 @@
+ - whiptail
+
+ - [x] apt-fast
+ - [ ] tmux
+ - [ ] zsh
+ - [ ] aria2c
+ - [ ] homebrew
+ - [ ] asdf
+ - [ ] poetry
+ - [ ] openssl
+ - [ ] nginx
+ - [ ] git
+ - [ ] github
+ - [ ] docker
+ - [ ] kubectl
+ - [ ] wine
+ - [ ] google-drive
+ - [ ] nethogs
+ - [ ] powertop
+ - [ ] moc
+
+ - [ ] Python
+ - [ ] Ruby
+ - [ ] Rust
+ - [ ] Go
+ - [ ] C#
+ - [ ] C++
+ - [ ] Java
+ - [ ] Kotlin
+ - [ ] Swift / Objective-C
+ - [ ] HTML
+ - [ ] CSS
+ - [ ] JavaScript
+ - [ ] React
+ - [ ] Vue.js
+ - [ ] Next.js
+ - [ ] PHP
+ - [ ] Laravel
+ - [ ] Flutter
+ - [ ] SQL
+ - [ ] MariaDB
+
+ - [ ] shellを二行で表示するようにする。
